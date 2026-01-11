@@ -21,8 +21,3 @@
 - 🔗 **[FLIGHT-BOOKING-NLP-CHATBOT](https://github.com/Jmansford/FLIGHT-BOOKING-NLP-CHATBOT)**  
   A proof-of-concept chatbot for flight booking scenarios, showcasing intent recognition, sentiment analysis, and conversational AI techniques.
 
-## 💡 Skills & Technologies
-
-- **Languages:** Python, Java, SQL  
-- **Machine Learning:** TensorFlow, PyTorch, scikit-learn, OpenAI Gym  
-
