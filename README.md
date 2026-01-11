@@ -10,7 +10,7 @@
 ## 🛠️ Featured Projects
 
 - 🔗 **[Salesforce-AI-Org-Insight-Graph](https://github.com/Jmansford/salesforce-ai-org-insight-graph)**  
-  Visualise your Salesforce org's data model and identifies technical debt hotspots through complexity scoring with optional AI-powered analysis.
+  Visualise your Salesforce org's data model and identify technical debt hotspots through complexity scoring with optional AI-powered analysis.
   
 - 🔗 **[PACMAN-RL-VS-BC](https://github.com/Jmansford/PACMAN-RL-VS-BC)**  
   Comparative study of Reinforcement Learning (DQN) vs Behavioural Cloning (Imitation Learning) approaches in a Pacman environment.
